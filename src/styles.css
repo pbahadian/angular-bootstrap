@@ -425,6 +425,11 @@
     border-top: 0.125rem solid rgba(0, 0, 0, 0.1);
   }
   
+  .gem {
+    height: 30px;
+    width: 30px;
+  }
+
   small,
   .small {
     font-size: 80%;
