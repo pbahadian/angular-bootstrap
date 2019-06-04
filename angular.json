@@ -24,7 +24,14 @@
             ],
             "styles": [
               "src/styles.css",
-              "./node_modules/bootstrap/dist/css/bootstrap.min.css" 
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css" ,
+              "vendor/fontawesome-free/css/all.min.css" ,
+              "./vendor/fontawesome-free/css/brands.min.css" ,
+              "./vendor/fontawesome-free/css/fontawesome.min.css" ,
+              "./vendor/fontawesome-free/css/regular.min.css" ,
+              "./vendor/fontawesome-free/css/solid.min.css" ,
+              "./vendor/fontawesome-free/css/svg-with-js.min.css" ,
+              "./vendor/fontawesome-free/css/v4-shims.min.css" 
             ],
             "scripts": [],
             "es5BrowserSupport": true
